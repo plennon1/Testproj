@@ -5,5 +5,6 @@
 <h2>New changes</h2>
 <h2>More change</h2>
 <h2>More change</h2>
+<h2>A new line</h2>
 </body>
 </html>
